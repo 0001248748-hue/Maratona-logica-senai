@@ -91,19 +91,25 @@ múltiplo de 400).
 Foco: Automação de tarefas repetitivas e processamento de dados.
 21.Checklist de Sensores: Use um laço para exibir os números de série dos 50
 sensores espalhados pela fábrica (de 1 a 50).
+
 22. IDs de Emergência: A central de incêndio só testa sensores com IDs pares.
 Exiba todos os números pares de 2 até 100.
+
 23.Contagem Regressiva: Para disparar uma prensa, o sistema deve exibir uma
 contagem regressiva de 10 até 0 e depois a mensagem "IGNIÇÃO!".
+
 24. Fechamento Mensal: Um gerente quer saber o total produzido na semana.
 Peça a produção diária de 7 dias (usando um laço) e, ao final, mostre a
 soma.
+
 25.Cálculo de Lotes (Fatorial): O sistema de logística usa fatoriais para
 organizar combinações de carga. Calcule o fatorial de um número inserido
 pelo usuário.
+
 26. Tabuada de Produção: O supervisor quer uma tabela que mostre quanto a
 máquina produz de 1 a 10 horas. Peça a produção por hora e gere essa
 "tabuada".
+
 27.Média Térmica: Leia a temperatura de 10 pontos diferentes da fábrica e, ao
 final, exiba a média térmica do ambiente.
 28. Tentativas de Senha: O sistema de segurança deve pedir a senha da porta
