@@ -1,4 +1,4 @@
-# William-Atividade-recuperacao
+# maratona-logica-senai
 Nome: William Junio De Jesus Silva
 Sala: HT-PJD-02-N-26-10495
 
