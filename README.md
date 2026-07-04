@@ -1,5 +1,6 @@
 # maratona-logica-senai
 Nome: William Junio De Jesus Silva
+
 Sala: HT-PJD-02-N-26-10495
 
 # PARTE 1: AVALIAÇÃO TEÓRICA (COMPETÊNCIAS TÉCNICAS)
